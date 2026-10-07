@@ -18,7 +18,12 @@ public class Student {
 		
 		
 		
+		
 	}
+	  public void multiplication() {
+		  
+		  System.out.println(20*10);
+	  }
 	
 	
 
