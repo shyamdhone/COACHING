@@ -24,6 +24,11 @@ public class Student {
 		  
 		  System.out.println(20*10);
 	  }
+	  
+	  public void division() {
+		  
+		  System.out.println(100/10);
+	  }
 	
 	
 
