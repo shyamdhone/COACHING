@@ -7,6 +7,12 @@ public class Student {
 		
 		System.out.println("the addition is being done on this project");
 		
+	
+	}
+	
+	public void substration() {
+		
+		System.out.println("the substarction process is ongoing on the client side");
 		
 		
 		
